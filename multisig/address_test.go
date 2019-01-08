@@ -1,7 +1,7 @@
 package multisig
 
 import (
-	"github.com/soroushjp/go-bitcoin-multisig/testutils"
+	"github.com/CryptoProcessing/go-bitcoin-multisig/testutils"
 	"testing"
 )
 

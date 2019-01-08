@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/soroushjp/go-bitcoin-multisig/multisig"
+	"github.com/CryptoProcessing/go-bitcoin-multisig/multisig"
 
 	"os"
 
